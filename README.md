@@ -66,7 +66,7 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 * Измените видимость проекта на Public.
 * Нажмите «Сохранить изменения».
 
-!["Задание 1"](./images/zadanie1.PNG)
+!["Задание 1"](./images/zadanie1.png)
 
 ## Задание 2. Теги
 
@@ -79,10 +79,10 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
     * в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
     * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags; 
 
-!["Задание 2"](./images/zadanie2.PNG)
-!["Задание 2-1"](./images/zadanie2-2.PNG)
-!["Задание 2-3"](./images/zadanie2-3.PNG)
-!["Задание 2-4"](./images/zadanie2-4.PNG)
+!["Задание 2"](./images/zadanie2.png)
+!["Задание 2-1"](./images/zadanie2-2.png)
+!["Задание 2-3"](./images/zadanie2-3.png)
+!["Задание 2-4"](./images/zadanie2-4.png)
 
 
 ## Задание 3. Ветки 
@@ -99,9 +99,9 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 1. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
 и как изменится вывод команды `git log`.
 
-!["Задание 3"](./images/zadanie3.PNG)
-!["Задание 3-2"](./images/zadanie3-2.PNG)
-!["Задание 3-3"](./images/zadanie3-3.PNG)
+!["Задание 3"](./images/zadanie3.png)
+!["Задание 3-2"](./images/zadanie3-2.png)
+!["Задание 3-3"](./images/zadanie3-3.png)
 
 ## Задание 4. Упрощаем себе жизнь
 
@@ -121,7 +121,7 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 Подробней о визуальном интерфейсе мы расскажем на одной из следующих лекций.
 
  
-!["Задание 4"](./images/zadanie4.PNG)
+!["Задание 4"](./images/zadanie4.png)
  
 
 
